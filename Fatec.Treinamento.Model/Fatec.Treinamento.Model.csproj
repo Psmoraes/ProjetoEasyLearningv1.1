@@ -51,7 +51,7 @@
     <Compile Include="Assunto.cs" />
     <Compile Include="Extensoes\StringExtensions.cs" />
     <Compile Include="Perfil.cs" />
-    <Compile Include="Treinamento.cs" />
+    <Compile Include="TreinamentoCurso.cs" />
     <Compile Include="Trilha.cs" />
     <Compile Include="Trilha_Curso.cs" />
     <Compile Include="Usuario.cs" />

@@ -46,13 +46,14 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Repositories\Trilha_CursoRepository .cs" />
     <Compile Include="Repositories\CapituloRepository.cs" />
     <Compile Include="Repositories\DocumentoRepository.cs" />
     <Compile Include="Repositories\Interfaces\ICapituloRepository.cs" />
     <Compile Include="Repositories\Interfaces\ITreinamentoRepository.cs" />
     <Compile Include="Repositories\Interfaces\IDocumentoRepository.cs" />
     <Compile Include="Repositories\Interfaces\IVideoRepository.cs" />
-    <Compile Include="Repositories\TreinamentoRepository.cs" />
+    <Compile Include="Repositories\TreinamentoCursoRepository.cs" />
     <Compile Include="Repositories\TrilhaRepository.cs" />
     <Compile Include="Repositories\CursoRepository.cs" />
     <Compile Include="Repositories\Interfaces\ICursoRepository.cs" />

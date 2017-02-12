@@ -12,7 +12,7 @@ using Fatec.Treinamento.Model.DTO;
 
 namespace Fatec.Treinamento.Data.Repositories
 {
-    public class TreinamentoRepository : RepositoryBase, ITreinamentoRepository
+    public class TreinamentoCursoRepository : RepositoryBase, ITreinamentoRepository
     {
         public TreinamentoCurso Inserir(TreinamentoCurso treinamentocurso)
         {
@@ -38,6 +38,7 @@ namespace Fatec.Treinamento.Data.Repositories
                 WHERE Id = @Id",
                param: new
                {
+                   
                    
                }
             );

@@ -8,7 +8,7 @@ namespace Fatec.Treinamento.Model
 {
     public class Trilha_Curso
     {
-        public int Idtrilha { get; set; }
+        public int IdTrilha { get; set; }
         public int IdCurso  { get; set; }
     }
 }
