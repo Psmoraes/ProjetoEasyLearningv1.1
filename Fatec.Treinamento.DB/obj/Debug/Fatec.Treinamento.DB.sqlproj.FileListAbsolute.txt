@@ -1,0 +1,5 @@
+G:\Users\Fábio\Desktop\Nova pasta\formacao-talentos-master\Fatec.Treinamento.DB\bin\Debug\Fatec.Treinamento.DB.dacpac
+G:\Users\Fábio\Desktop\Nova pasta\formacao-talentos-master\Fatec.Treinamento.DB\bin\Debug\Fatec.Treinamento.DB.dll
+G:\Users\Fábio\Desktop\Nova pasta\formacao-talentos-master\Fatec.Treinamento.DB\bin\Debug\Fatec.Treinamento.DB.pdb
+G:\Users\Fábio\Desktop\Nova pasta\formacao-talentos-master\Fatec.Treinamento.DB\obj\Debug\Fatec.Treinamento.DB.dll
+G:\Users\Fábio\Desktop\Nova pasta\formacao-talentos-master\Fatec.Treinamento.DB\obj\Debug\Fatec.Treinamento.DB.pdb

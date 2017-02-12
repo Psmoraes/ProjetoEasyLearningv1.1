@@ -1,0 +1,46 @@
+﻿** Destaques
+     Tabelas que serão recriadas
+       Nenhum
+     Índices clusterizados que serão removidos
+       Nenhum
+     Índices clusterizados que serão criados
+       Nenhum
+     Possíveis problemas de dados
+       Nenhum
+
+** Ações do usuário
+     Criar
+       [dbo].[Assunto] (Tabela)
+       [dbo].[Capitulo] (Tabela)
+       [dbo].[Curso] (Tabela)
+       [dbo].[Documento] (Tabela)
+       [dbo].[Funcionalidade] (Tabela)
+       [dbo].[Perfil] (Tabela)
+       [dbo].[Permissao] (Tabela)
+       [dbo].[Treinamento] (Tabela)
+       [dbo].[Treinamento_Capitulo] (Tabela)
+       [dbo].[Trilha] (Tabela)
+       [dbo].[Trilha_Curso] (Tabela)
+       [dbo].[Usuario] (Tabela)
+       [dbo].[Video] (Tabela)
+       [dbo].[DF_Curso_DataCriacao] (Restrição Padrão)
+       [dbo].[DF_Documento_DataCadastro] (Restrição Padrão)
+       [dbo].[DF_Treinamento_DataInicio] (Restrição Padrão)
+       [dbo].[DF_Trilha_Ativa] (Restrição Padrão)
+       [dbo].[DF_Usuario_Ativo] (Restrição Padrão)
+       [dbo].[FK_Capitulo_Curso] (Chave Estrangeira)
+       [dbo].[FK_Curso_Assunto] (Chave Estrangeira)
+       [dbo].[FK_Curso_Usuario] (Chave Estrangeira)
+       [dbo].[FK_Documento_Curso] (Chave Estrangeira)
+       [dbo].[FK_Permissao_Funcionalidade] (Chave Estrangeira)
+       [dbo].[FK_Permissao_Perfil] (Chave Estrangeira)
+       [dbo].[FK_Treinamento_Curso] (Chave Estrangeira)
+       [dbo].[FK_Treinamento_Usuario] (Chave Estrangeira)
+       [dbo].[FK_Treinamento_Capitulo_Capitulo] (Chave Estrangeira)
+       [dbo].[FK_Treinamento_Capitulo_Treinamento] (Chave Estrangeira)
+       [dbo].[FK_Trilha_Curso_Curso] (Chave Estrangeira)
+       [dbo].[FK_Trilha_Curso_Trilha] (Chave Estrangeira)
+       [dbo].[FK_Usuario_Perfil] (Chave Estrangeira)
+       [dbo].[FK_Video_Capitulo] (Chave Estrangeira)
+
+** Ações de suporte
