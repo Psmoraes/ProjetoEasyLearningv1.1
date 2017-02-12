@@ -16,3 +16,12 @@ C:\Users\psmor\Downloads\Nova pasta\formacao-talentos-master\Fatec.Treinamento.D
 C:\Users\psmor\Downloads\Nova pasta\formacao-talentos-master\Fatec.Treinamento.Data\obj\Debug\Fatec.Treinamento.Data.csprojResolveAssemblyReference.cache
 C:\Users\psmor\Downloads\Nova pasta\formacao-talentos-master\Fatec.Treinamento.Data\obj\Debug\Fatec.Treinamento.Data.dll
 C:\Users\psmor\Downloads\Nova pasta\formacao-talentos-master\Fatec.Treinamento.Data\obj\Debug\Fatec.Treinamento.Data.pdb
+C:\Users\psmor\Desktop\ProjetoEasyLearningv1.1\Fatec.Treinamento.Data\bin\Debug\Fatec.Treinamento.Data.dll
+C:\Users\psmor\Desktop\ProjetoEasyLearningv1.1\Fatec.Treinamento.Data\bin\Debug\Fatec.Treinamento.Data.pdb
+C:\Users\psmor\Desktop\ProjetoEasyLearningv1.1\Fatec.Treinamento.Data\bin\Debug\Dapper.dll
+C:\Users\psmor\Desktop\ProjetoEasyLearningv1.1\Fatec.Treinamento.Data\bin\Debug\Fatec.Treinamento.Model.dll
+C:\Users\psmor\Desktop\ProjetoEasyLearningv1.1\Fatec.Treinamento.Data\bin\Debug\Fatec.Treinamento.Model.pdb
+C:\Users\psmor\Desktop\ProjetoEasyLearningv1.1\Fatec.Treinamento.Data\bin\Debug\Dapper.xml
+C:\Users\psmor\Desktop\ProjetoEasyLearningv1.1\Fatec.Treinamento.Data\obj\Debug\Fatec.Treinamento.Data.csprojResolveAssemblyReference.cache
+C:\Users\psmor\Desktop\ProjetoEasyLearningv1.1\Fatec.Treinamento.Data\obj\Debug\Fatec.Treinamento.Data.dll
+C:\Users\psmor\Desktop\ProjetoEasyLearningv1.1\Fatec.Treinamento.Data\obj\Debug\Fatec.Treinamento.Data.pdb
