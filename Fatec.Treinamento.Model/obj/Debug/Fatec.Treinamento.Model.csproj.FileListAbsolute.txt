@@ -1,0 +1,5 @@
+G:\Users\Fábio\Desktop\Nova pasta\formacao-talentos-master\Fatec.Treinamento.Model\bin\Debug\Fatec.Treinamento.Model.dll
+G:\Users\Fábio\Desktop\Nova pasta\formacao-talentos-master\Fatec.Treinamento.Model\bin\Debug\Fatec.Treinamento.Model.pdb
+G:\Users\Fábio\Desktop\Nova pasta\formacao-talentos-master\Fatec.Treinamento.Model\obj\Debug\Fatec.Treinamento.Model.csprojResolveAssemblyReference.cache
+G:\Users\Fábio\Desktop\Nova pasta\formacao-talentos-master\Fatec.Treinamento.Model\obj\Debug\Fatec.Treinamento.Model.dll
+G:\Users\Fábio\Desktop\Nova pasta\formacao-talentos-master\Fatec.Treinamento.Model\obj\Debug\Fatec.Treinamento.Model.pdb
