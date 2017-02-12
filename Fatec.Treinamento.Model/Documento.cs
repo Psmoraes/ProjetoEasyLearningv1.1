@@ -13,5 +13,6 @@ namespace Fatec.Treinamento.Model
         public int Descricao { get; set; }
         public DateTime DataCadastro { get; set; }
         public string Arquivo { get; set; }
+        public string Nome { get; set; }
     }
 }

@@ -51,5 +51,35 @@ namespace Fatec.Treinamento.Data.Repositories
                  ORDER BY c.Nome"
             ).ToList();
         }
+        public Capitulo Atualizar(Capitulo capitulo)
+        {
+            Connection.Execute(
+               @"UPDATE Capitulo SET 
+                    Nome = @Nome
+                WHERE Id = @Id",
+               param: new
+               {
+                   capitulo.Nome,
+                   capitulo.Id
+               }
+            );
+
+            return capitulo;
+        }
+
+        public void Excluir(Capitulo capitulo)
+        {
+            try
+            {
+                Connection.Execute(
+                    "DELETE FROM Capitulo WHERE Id = @Id",
+                    param: new { Id = capitulo.Id }
+                );
+            }
+            catch (SqlException ex)
+            {
+                throw new Exception("O capitulo não pode ser removido pois existem cursos vinculados.");
+            }
+        }
     }
 }

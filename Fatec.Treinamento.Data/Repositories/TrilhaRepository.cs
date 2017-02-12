@@ -12,8 +12,7 @@ using Fatec.Treinamento.Model.DTO;
 namespace Fatec.Treinamento.Data.Repositories
 {
     public class TrilhaRepository : RepositoryBase, ITrilhaRepository
-    {
-        
+    { 
         public Trilha Inserir(Trilha trilha)
         {
             var id = Connection.ExecuteScalar<int>(

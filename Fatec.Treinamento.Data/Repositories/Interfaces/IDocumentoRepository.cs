@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Fatec.Treinamento.Data.Repositories.Interfaces
 {
-   public class IDocumentoRepository
+   public interface IDocumentoRepository
     {
     }
 }
